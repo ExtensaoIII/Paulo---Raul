@@ -1,3 +1,5 @@
+<img width="1903" height="938" alt="image" src="https://github.com/user-attachments/assets/170a542f-a9d7-4141-82fd-37e0df847b78" />
+
 # EcoPilha — protótipo
 
 Protótipo estático de um site/app para reciclagem de pilhas e baterias, com mapa de pontos de coleta, gamificação por peso reciclado e parcerias com o comércio local. Construído apenas com **HTML e CSS** (sem JavaScript, sem dependências de build).
